@@ -2,6 +2,15 @@ body{
     color: white;
 }
 
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
 .header {
     display:flex;
 }
