@@ -8,6 +8,9 @@ ul {
     list-style-type: none;
     display: inline-flex;
     gap: 16px;
+    margin-right: 16px;
+    font-size: 18px;
+    color: #E5E7EB;
 }
 
 a {
@@ -24,10 +27,6 @@ a {
     flex: 1 1 auto;
     justify-content: space-between;
     align-items: center;
-}
-
-.links {
-    display: flex;
 }
 
 .hero {
