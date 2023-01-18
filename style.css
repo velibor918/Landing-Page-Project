@@ -8,7 +8,6 @@ ul {
     list-style-type: none;
     display: inline-flex;
     gap: 16px;
-    margin-right: 16px;
     font-size: 18px;
     color: #E5E7EB;
 }
@@ -25,8 +24,12 @@ a {
 .header {
     display: flex;
     flex: 1 1 auto;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
+}
+
+.logo{
+    
 }
 
 .hero {
