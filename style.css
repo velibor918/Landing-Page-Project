@@ -12,6 +12,12 @@ ul {
     color: #E5E7EB;
 }
 
+button {
+    background-color: #3882F6;
+    color: white;
+    border: none;
+}
+
 a {
     text-decoration: none;
     color: white;
@@ -36,5 +42,8 @@ a {
 
 .hero {
     display: flex;
+    justify-content: center;
 }
+
+
 
