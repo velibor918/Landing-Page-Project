@@ -6,6 +6,8 @@ body{
 
 ul {
     list-style-type: none;
+    display: inline-flex;
+    gap: 16px;
 }
 
 a {
@@ -20,6 +22,12 @@ a {
 .header {
     display: flex;
     flex: 1 1 auto;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.links {
+    display: flex;
 }
 
 .hero {
