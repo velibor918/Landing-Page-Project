@@ -1,5 +1,7 @@
 body{
     color: white;
+    margin: 0;
+    padding: 0;
 }
 
 ul {
@@ -11,14 +13,16 @@ a {
     color: white;
 }
 
+.container {
+    background-color: #1F2937;
+}
+
 .header {
-    display:flex;
+    display: flex;
+    flex: 1 1 auto;
 }
 
 .hero {
     display: flex;
 }
 
-.container {
-    background-color: #1F2937;
-}
