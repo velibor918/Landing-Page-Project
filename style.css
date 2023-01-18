@@ -1,7 +1,15 @@
+body{
+    color: white;
+}
+
 .header {
     display:flex;
 }
 
 .hero {
     display: flex;
+}
+
+.container {
+    background-color: #1F2937;
 }
