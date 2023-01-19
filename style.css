@@ -51,7 +51,7 @@ p {
     justify-content: center;
     align-items: center;
     text-align: left;
-    height: 200px;
+    
     margin: 30px;
     gap: 25px;
     flex: auto;
@@ -60,7 +60,14 @@ p {
 .h-text {
     box-sizing: border-box;
     flex-basis: 400px;
+    height: 200px;
     gap: 50px;
+}
+
+.image-ph {
+    width: 400px;
+    height: 200px;
+    text-align: center;
 }
 
 .main-text {
