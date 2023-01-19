@@ -100,7 +100,12 @@ button {
 }
 
 .info {
-    display: flex;
+    text-align: center;
     color: black;
+    height: 400px;
+}
+
+.box-section {
+    display: flex;
     height: 400px;
 }
