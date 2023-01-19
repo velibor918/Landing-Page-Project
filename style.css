@@ -65,9 +65,13 @@ p {
 }
 
 .image-ph {
-    width: 400px;
+    display: flex;
+    flex-basis: 400px;
     height: 200px;
-    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: grey;
 }
 
 .main-text {
