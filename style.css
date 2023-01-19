@@ -109,3 +109,10 @@ button {
     display: flex;
     height: 400px;
 }
+
+.box{
+    box-sizing: border-box;
+    width: 150px;
+    height: 200px;
+    border: 1px solid blue;
+}
