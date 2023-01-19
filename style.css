@@ -61,13 +61,13 @@ p {
 .h-text {
     box-sizing: border-box;
     flex-basis: 400px;
-    height: 200px;
+    height: 250px;
 }
 
 .image-ph {
     display: flex;
     flex-basis: 500px;
-    height: 200px;
+    height: 250px;
     justify-content: center;
     align-items: center;
     color: white;
