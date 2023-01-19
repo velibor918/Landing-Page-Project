@@ -59,6 +59,9 @@ p {
 }
 
 .h-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
     box-sizing: border-box;
     flex-basis: 400px;
     height: 250px;
