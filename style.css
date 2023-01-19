@@ -63,7 +63,6 @@ p {
     flex-direction: column;
     justify-content: center;
     box-sizing: border-box;
-
     flex-basis: 400px;
     height: 250px;
 }
@@ -100,3 +99,8 @@ button {
     margin-top: 15px;
 }
 
+.info {
+    display: flex;
+    color: black;
+    height: 400px;
+}
