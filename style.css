@@ -52,8 +52,7 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
-    text-align: left;
-    
+    text-align: left; 
     margin: 30px;
     gap: 25px;
     flex: auto;
@@ -63,12 +62,11 @@ p {
     box-sizing: border-box;
     flex-basis: 400px;
     height: 200px;
-    gap: 50px;
 }
 
 .image-ph {
     display: flex;
-    flex-basis: 400px;
+    flex-basis: 500px;
     height: 200px;
     justify-content: center;
     align-items: center;
