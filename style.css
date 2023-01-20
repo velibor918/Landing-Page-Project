@@ -135,7 +135,14 @@ button {
 } 
 
 
-.quote{
-    height: 1000px;
-    width: 100%;
+.quote {
+    display: flex;
+    flex-wrap: wrap;
+    height: 600px;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote p {
+    width: 600px;
 }
