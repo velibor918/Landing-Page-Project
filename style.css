@@ -139,6 +139,7 @@ button {
 .quote {
     display: flex;
     flex-wrap: wrap;
+    flex-direction: column;
     height: 600px;
     justify-content: center;
     align-items: center;
@@ -152,4 +153,11 @@ button {
     font-weight: 300;
     font-style: italic;
     color: #1F2937;
+}
+
+.person {
+    align-self: flex-end;
+    width: 900px;
+    font-size: 25px;
+    font-weight: 600;
 }
