@@ -194,3 +194,19 @@ p {
     font-size: 23px;
     font-weight: 800;
 }
+
+.footer {
+    display: flex;
+    flex-basis: 100%;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+    background-color: #1F2937;
+    color: white;
+    font-size: 20px;
+}
+
+.f-text a {
+    text-decoration: underline;
+}
+
