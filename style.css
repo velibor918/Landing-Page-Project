@@ -144,7 +144,7 @@ button {
     justify-content: center;
     align-items: center;
     background-color: #E5E7EB;
-    margin-bottom: 150px;
+    margin-bottom: 100px;
 }
 
 .quote p {
@@ -161,4 +161,12 @@ button {
     width: 900px;
     font-size: 25px;
     font-weight: 600;
+}
+
+.a-container {
+    
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    flex-basis: 500px;
 }
