@@ -17,6 +17,13 @@ button {
     background-color: #3882F6;
     color: white;
     border: none;
+    margin: 0;
+    padding: 0;
+    width: 100px;
+    height: 35px;
+    border-radius: 10px;
+    font-weight: 800;
+    margin-top: 15px;
 }
 
 a {
@@ -87,16 +94,6 @@ p {
     font-size: 18px;
     color: #E5E7EB;
 
-}
-
-button {
-    margin: 0;
-    padding: 0;
-    width: 100px;
-    height: 35px;
-    border-radius: 10px;
-    font-weight: 800;
-    margin-top: 15px;
 }
 
 .info {
