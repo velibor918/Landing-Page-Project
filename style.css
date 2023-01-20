@@ -132,6 +132,10 @@ button {
 .caption {
     width: 150px;
     padding-top: 10px;
-
 } 
 
+
+.quote{
+    height: 1000px;
+    width: 100%;
+}
