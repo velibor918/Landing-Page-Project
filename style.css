@@ -171,10 +171,14 @@ button {
 
 .a-container {
     background-color: #3882F6;
+    box-sizing: border-box;
     display: flex;
     align-items: center;
     justify-content: center;
-    flex-basis: 70%;
+    flex-basis: 900px;
+    height: 80px;
 }
 
-
+.other {
+    margin: 0;
+}
