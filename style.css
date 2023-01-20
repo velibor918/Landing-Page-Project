@@ -119,7 +119,7 @@ button {
     flex-basis: 400px;
     gap: 20px;
     word-break: break-word;
-    margin-bottom: 100px;
+    margin-bottom: 150px;
 }
 
 .box{
@@ -140,11 +140,11 @@ button {
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
-    height: 600px;
+    height: 500px;
     justify-content: center;
     align-items: center;
     background-color: #E5E7EB;
-    margin-bottom: 100px;
+    margin-bottom: 150px;
 }
 
 .quote p {
