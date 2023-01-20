@@ -119,6 +119,7 @@ button {
     flex-basis: 400px;
     gap: 20px;
     word-break: break-word;
+    margin-bottom: 100px;
 }
 
 .box{
@@ -141,8 +142,14 @@ button {
     height: 600px;
     justify-content: center;
     align-items: center;
+    background-color: #E5E7EB;
 }
 
 .quote p {
-    width: 600px;
+    width: 900px;
+    text-align: left;
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1F2937;
 }
