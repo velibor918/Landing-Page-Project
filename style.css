@@ -163,10 +163,18 @@ button {
     font-weight: 600;
 }
 
-.a-container {
-    
+.action {
     display: flex;
-    align-content: center;
     justify-content: center;
-    flex-basis: 500px;
+    align-items: center;
 }
+
+.a-container {
+    background-color: #3882F6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-basis: 70%;
+}
+
+
